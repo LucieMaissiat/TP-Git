@@ -1,6 +1,5 @@
-What
-a
-nice
-day
-today
-.
+maison
+velo
+arbre
+ordi
+telephone
