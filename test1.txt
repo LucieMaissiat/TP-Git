@@ -1,5 +1,0 @@
-maison
-velo
-arbre
-ordi
-telephone
